@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "angular": "~1.x",
-    "tinymce": "https://github.com/skaindl/tinymce.git"
+    "tinymce": "https://github.com/skaindl/tinymce-dist.git"
   },
   "devDependencies": {
     "angular-mocks": "~1.x"
